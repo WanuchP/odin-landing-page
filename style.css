@@ -11,7 +11,7 @@ body {
 }
 
 .header {
-    background-color: #1F2937;
+    background-color: #363134;
     padding: 32px 256px;
     margin: 0;
     border: 0;
@@ -43,7 +43,7 @@ a {
 }
 
 .first {
-    background-color: #1F2937;
+    background-color: #363134;
     display: flex;
     padding: 64px 256px;
     justify-content: center;
@@ -64,7 +64,7 @@ a {
 }
 
 button {
-    background-color: #3882F6;
+    background-color: #CF86E8;
     color: white;
     text-align: center;
     border-radius: 8px;
@@ -87,7 +87,7 @@ button {
 
 .first-image-placeholder {
     flex: 1;
-    background-color: #757C86;
+    background-color: #9860A4;
     padding: 16px;
     display: flex;
     align-items: center;
@@ -118,15 +118,17 @@ button {
     flex-direction: column;
     justify-content: stretch;
     align-items: center;
-    width: 128px;
+    width: 170px;
     text-align: center;
+    gap: 16px;
+    font-size: 16px;
 }
 
 .item-image-placeholder {
     height: 150px;
     width: 150px;
     border-radius: 8px;
-    border-color: #3882F6;
+    border-color: #CF86E8;
     border-style: solid;
 }
 
@@ -136,7 +138,7 @@ button {
 }
 
 .third {
-    background-color: #E5E7EB;
+    background-color: #EFE6F1;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -158,7 +160,7 @@ button {
 
 .fourth {
     margin: 128px 256px;
-    background-color: #3882F6;
+    background-color: #CF86E8;
     border-radius: 8px;
     padding: 64px 64px;
     display: flex;
@@ -190,7 +192,7 @@ button {
 
 .footer {
     color: #F9FAF8;
-    background-color: #1F2937;
+    background-color: #363134;
     padding: 64px;
     display: flex;
     justify-content: center;
